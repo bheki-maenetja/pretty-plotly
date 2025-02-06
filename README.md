@@ -1,4 +1,4 @@
-# Simple Plotly
+# Pretty Plotly
 
 This module provides a set of functions to create various types of plots using Plotly. It includes functions for setting the renderer, plotting scatter plots, creating traces, histograms, candlestick charts, and collections of plots.
 

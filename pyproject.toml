@@ -1,8 +1,8 @@
 [project]
-name = "simple_plotly"
+name = "pretty_plotly"
 version = "0.0.1"
 authors = [
-  { name="Bheki", email="bhekimaenetja@gmail.com" },
+  { name="Bheki" },
 ]
 description = "Handy functions for easier, simpler plotting with the plotly library."
 readme = "README.md"
@@ -16,4 +16,4 @@ classifiers = [
 
 
 [project.urls]
-Homepage = "https://github.com/bheki-maenetja/simple-plotly"
+Homepage = "https://github.com/bheki-maenetja/pretty-plotly"

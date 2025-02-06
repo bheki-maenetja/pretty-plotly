@@ -1,5 +1,5 @@
 [project]
-name = "Simple Plotly"
+name = "simple_plotly"
 version = "0.0.1"
 authors = [
   { name="Bheki", email="bhekimaenetja@gmail.com" },

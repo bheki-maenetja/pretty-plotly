@@ -12,8 +12,8 @@ classifiers = [
     "Operating System :: OS Independent",
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
-license = "MIT"
-license-files = ["LICEN[CS]E*"]
+
+
 
 [project.urls]
 Homepage = "https://github.com/bheki-maenetja/simple-plotly"

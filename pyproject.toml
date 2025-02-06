@@ -1,0 +1,19 @@
+[project]
+name = "Simple Plotly"
+version = "0.0.1"
+authors = [
+  { name="Bheki", email="bhekimaenetja@gmail.com" },
+]
+description = "Handy functions for easier, simpler plotting with the plotly library."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/bheki-maenetja/simple-plotly"
